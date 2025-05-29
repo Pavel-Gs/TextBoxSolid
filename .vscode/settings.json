@@ -1,0 +1,21 @@
+{
+	"editor.formatOnType": true,
+	"[autolisp]": {
+		"editor.wordSeparators": "`|;'\",()"
+	},
+	"cSpell.words": [
+		"cadr",
+		"defun",
+		"DRAWORDER",
+		"entget",
+		"entlast",
+		"entmod",
+		"entsel",
+		"entupd",
+		"mapcar",
+		"MTEXT",
+		"princ",
+		"progn",
+		"setq"
+	]
+}
