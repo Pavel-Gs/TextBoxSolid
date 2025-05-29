@@ -9,8 +9,8 @@ Automatically place "solid" object behind TEXT (or mText).
 
 ## How to use
 ### `Load through CAD`
-Use command "APPLOAD" and locate the desired *.lsp file
-Use command "TextBoxSolid" and select the text
+1) Use command "APPLOAD" and locate the desired *.lsp file
+2) Use command "TextBoxSolid" and select the text
 
 ### `Setup auto load`
 - locate icad.lsp
