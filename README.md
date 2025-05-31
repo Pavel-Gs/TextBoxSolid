@@ -1,4 +1,4 @@
-# AUTOCAD LISP script
+# AUTOCAD LISP script (for MicroSurvey CAD 2016)
 
 Automatically place "solid" object behind TEXT (or mText):
 - "Solid" has a rectangular shape with a small padding.
