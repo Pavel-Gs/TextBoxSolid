@@ -8,6 +8,11 @@ Automatically place "solid" object behind TEXT (or mText):
 
 
 ## How to use
+### `Customization`
+- "defun c:TextBoxSolid"defines command line
+- "(setq pad 0.2)" defines padding
+
+
 ### `Load through CAD`
 1) Use command "APPLOAD" and locate the desired *.lsp file.
 2) Use command "TextBoxSolid" and select the text.
